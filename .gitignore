@@ -1,0 +1,11 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+.env
+deployments/localhost
+deployments/hardhat
+bin
+.DS_Store
